@@ -10,11 +10,14 @@ Objetivo: Organizar e criar um dashboard interativo.
 4. Conversão dos dados para o formato de tabela.
 5. Inserção de uma Tabela Dinâmica a partir da qual o dashboard foi criado.
 
-Aqui você pode ver uma prévia do resultado final: 
+## Aqui você pode ver uma prévia do resultado final: 
+
+![Captura de tela 2025-01-14 193320](https://github.com/user-attachments/assets/2b30d5b8-df7b-4bd7-af59-e067271ce83b)
 
 
 
-*Obrigado por ler! Espero que você aproveite a exploração deste projeto tanto quanto eu gostei de criá-lo. Seu feedback é muito bem-vindo, e estou ansioso para me conectar com você e ouvir suas opiniões.*
+
+*Obrigado por ler! Espero que você aproveite a exploração deste projeto tanto quanto eu gostei de criá-lo. Seu feedback é muito bem-vindo, e estou ansiosa para me conectar com você e ouvir suas opiniões.*
 
 
 
